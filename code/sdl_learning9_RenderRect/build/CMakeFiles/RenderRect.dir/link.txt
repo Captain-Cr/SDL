@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/RenderRect.dir/main.c.o -o RenderRect  -lSDL2 

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/DrawGraphical.dir/main.cpp.o -o DrawGraphical  -lSDL2 

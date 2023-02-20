@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/LoadImg.dir/main.c.o -o LoadImg  -lSDL2 -lSDL2_image 

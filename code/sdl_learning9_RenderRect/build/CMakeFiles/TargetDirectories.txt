@@ -1,0 +1,3 @@
+/home/rose/mount/code/sdl_learning9_RenderRect/build/CMakeFiles/rebuild_cache.dir
+/home/rose/mount/code/sdl_learning9_RenderRect/build/CMakeFiles/edit_cache.dir
+/home/rose/mount/code/sdl_learning9_RenderRect/build/CMakeFiles/RenderRect.dir

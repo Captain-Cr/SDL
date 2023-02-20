@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/SimpleWindow.dir/SimpleWin.c.o -o SimpleWindow  -lSDL2 

@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/DrawText.dir/main.c.o -o DrawText  -lSDL2 -lSDL2_image -lSDL2_ttf 

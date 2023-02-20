@@ -1,0 +1,3 @@
+/home/rose/mount/code/sdl_external_DrawGraphical/sdl_2_DrawImg/build/CMakeFiles/edit_cache.dir
+/home/rose/mount/code/sdl_external_DrawGraphical/sdl_2_DrawImg/build/CMakeFiles/rebuild_cache.dir
+/home/rose/mount/code/sdl_external_DrawGraphical/sdl_2_DrawImg/build/CMakeFiles/DrawGraphical.dir

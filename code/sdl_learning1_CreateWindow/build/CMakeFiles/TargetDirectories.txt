@@ -1,0 +1,3 @@
+/home/rose/mount/code/sdl_learning1/build/CMakeFiles/rebuild_cache.dir
+/home/rose/mount/code/sdl_learning1/build/CMakeFiles/edit_cache.dir
+/home/rose/mount/code/sdl_learning1/build/CMakeFiles/SimpleWindow.dir
